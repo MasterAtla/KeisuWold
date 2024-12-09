@@ -362,3 +362,44 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [14:47:49] [Server thread/INFO]: NoobUser1624[/127.191.125.190:58041] logged in with entity id 16 at ([KeisuWolrd]262.03714027827135, 63.0, -17.429043058771533)
 [14:54:35] [Server thread/INFO]: NoobUser1624 issued server command: /setworldspawn 195 72 1
 [14:54:35] [Server thread/INFO]: [NoobUser1624: Set the world spawn point to 195, 72, 1 [0.0]]
+[14:55:11] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[14:55:11] [Server thread/INFO]: [NoobUser1624: Set own game mode to Survival Mode]
+[14:55:13] [Server thread/INFO]: NoobUser1624 fell from a high place
+[14:55:46] [Server thread/INFO]: NoobUser1624 issued server command: /setworldspawn 201 70 1
+[14:55:46] [Server thread/INFO]: [NoobUser1624: Set the world spawn point to 201, 70, 1 [0.0]]
+[14:56:01] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode creative
+[14:56:01] [Server thread/INFO]: [NoobUser1624: Set own game mode to Creative Mode]
+[14:56:13] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[14:56:13] [Server thread/INFO]: [NoobUser1624: Set own game mode to Survival Mode]
+[14:56:15] [Server thread/INFO]: NoobUser1624 fell from a high place
+[14:56:37] [Server thread/INFO]: NoobUser1624 issued server command: /gamerule spawnRadius 0
+[14:56:37] [Server thread/INFO]: [NoobUser1624: Gamerule spawnRadius is now set to: 0]
+[14:56:51] [Server thread/INFO]: NoobUser1624 issued server command: /kill NoobUser1624
+[14:56:51] [Server thread/INFO]: NoobUser1624 was killed
+[14:56:51] [Server thread/INFO]: [NoobUser1624: Killed NoobUser1624]
+[14:57:16] [Server thread/INFO]: NoobUser1624 issued server command: /setworldspawn 198 71 1
+[14:57:16] [Server thread/INFO]: [NoobUser1624: Set the world spawn point to 198, 71, 1 [0.0]]
+[14:57:19] [Server thread/INFO]: NoobUser1624 issued server command: /kill NoobUser1624
+[14:57:19] [Server thread/INFO]: NoobUser1624 was killed
+[14:57:19] [Server thread/INFO]: [NoobUser1624: Killed NoobUser1624]
+[14:57:26] [Server thread/INFO]: NoobUser1624 issued server command: /kill NoobUser1624
+[14:57:26] [Server thread/INFO]: NoobUser1624 was killed
+[14:57:26] [Server thread/INFO]: [NoobUser1624: Killed NoobUser1624]
+[14:57:42] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username NoobUser1624
+[14:57:42] [localSession-7-2/INFO]: [Geyser-Spigot] NoobUser1624 (logged in as: NoobUser1624) has connected to the Java server
+[14:57:42] [Server thread/INFO]: [floodgate] Floodgate player logged in as .NoobUser1624 joined (UUID: 00000000-0000-0000-0009-01fc582188ae)
+[14:57:42] [Server thread/INFO]: .NoobUser1624 joined the game
+[14:57:42] [Server thread/INFO]: .NoobUser1624[/127.0.0.1:0] logged in with entity id 2122 at ([KeisuWolrd]151.94606, 53.0, 60.179886)
+[14:57:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player .NoobUser1624's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[14:58:10] [Server thread/INFO]: NoobUser1624 issued server command: /tp .NoobUser1624 NoobUser1624
+[14:58:10] [Server thread/INFO]: [NoobUser1624: Teleported .NoobUser1624 to NoobUser1624]
+[14:59:26] [Server thread/INFO]: Villager Villager['Villager'/118, uuid='68bab544-1724-4c38-82cd-8cc404e92b89', l='ServerLevel[KeisuWolrd]', x=239.85, y=83.00, z=57.50, cpos=[14, 3], tl=50149, v=true] died, message: 'Villager was slain by Zombie'
+[15:00:10] [Server thread/INFO]: NoobUser1624 issued server command: /farmassist
+[15:00:24] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode creative
+[15:00:24] [Server thread/INFO]: [NoobUser1624: Set own game mode to Creative Mode]
+[15:00:26] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[15:00:26] [Server thread/INFO]: [NoobUser1624: Set own game mode to Survival Mode]
+[15:01:06] [Server thread/INFO]: Villager Villager['Villager'/51, uuid='94862fb3-a3e8-4a8a-8e89-e7bfddd4deb5', l='ServerLevel[KeisuWolrd]', x=243.39, y=83.00, z=57.70, cpos=[15, 3], tl=49623, v=true] died, message: 'Villager was slain by Zombie Villager'
+[15:01:16] [Server thread/INFO]: NoobUser1624 issued server command: /seed
+[15:02:15] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode creative
+[15:02:15] [Server thread/INFO]: [NoobUser1624: Set own game mode to Creative Mode]
