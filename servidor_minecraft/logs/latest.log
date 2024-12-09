@@ -487,3 +487,25 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [15:55:27] [Server thread/INFO]: Villager Villager['Villager'/103, uuid='257499df-115a-48f5-9fe8-c89f5130c94b', l='ServerLevel[KeisuWolrd]', x=252.51, y=76.00, z=12.30, cpos=[15, 0], tl=99884, v=true] died, message: 'Villager was slain by Zombie'
 [15:55:32] [Server thread/INFO]: NoobUser1624 issued server command: /kitcreate Inicio 5
 [15:55:47] [Server thread/INFO]: NoobUser1624 issued server command: /kitpreview inicio
+[15:56:30] [Server thread/INFO]: NoobUser1624 has made the advancement [Isn't It Iron Pick]
+[15:57:37] [Server thread/INFO]: NoobUser1624 issued server command: /kitcreate Inicio 5
+[15:57:43] [Server thread/INFO]: NoobUser1624 issued server command: /kitpreview inicio
+[15:58:00] [Server thread/INFO]: NoobUser1624 issued server command: /kits inicio
+[15:58:53] [Server thread/INFO]: NoobUser1624 issued server command: /kits inicio .NoobUser1624
+[15:58:53] [Server thread/INFO]: .NoobUser1624 has made the advancement [Isn't It Iron Pick]
+[15:59:27] [Server thread/INFO]: .NoobUser1624 was slain by Lvl 6 | Zombie
+[15:59:46] [Server thread/INFO]: .NoobUser1624 was slain by Lvl 6 | Zombie
+[16:00:59] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .NoobUser1624 disconnected
+[16:00:59] [localSession-7-4/INFO]: [Geyser-Spigot] NoobUser1624 has disconnected from the Java server because of Bedrock client disconnected
+[16:00:59] [Server thread/INFO]: .NoobUser1624 lost connection: Disconnected
+[16:00:59] [Server thread/INFO]:  Nos vemos... .NoobUser1624
+[16:01:21] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Starting...
+[16:01:21] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[16:01:47] [Server thread/INFO]: NoobUser1624 issued server command: //cyl cobblestone 2 2
+[16:01:54] [Server thread/INFO]: NoobUser1624 has made the advancement [Stone Age]
+[16:02:09] [Server thread/INFO]: NoobUser1624 issued server command: //undo
+[16:02:15] [Server thread/INFO]: NoobUser1624 issued server command: //cyl cobblestone 5 1
+[16:02:28] [Server thread/INFO]: NoobUser1624 issued server command: //undo
+[16:02:35] [Server thread/INFO]: NoobUser1624 issued server command: //hcyl cobblestone 5 1
+[16:02:41] [Server thread/INFO]: NoobUser1624 issued server command: //hcyl cobblestone 5 5
+[16:02:50] [Server thread/INFO]: NoobUser1624 issued server command: //cyl cobblestone 5 1

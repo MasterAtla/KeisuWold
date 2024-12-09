@@ -18,6 +18,8 @@ timestamps:
   onlinejail: 0
   logout: 1733759235070
   login: 1733759242970
+  kits:
+    inicio: 1733759933624
 money: '0'
 last-account-name: NoobUser1624
 logoutlocation:

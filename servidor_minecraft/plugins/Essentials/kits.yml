@@ -34,4 +34,19 @@ kits:
       shape:star effect:trail power:1
   inicio:
     delay: 5
-    items: []
+    items:
+    - stone_sword 1
+    - iron_pickaxe 1
+    - iron_axe 1
+    - fishing_rod 1
+    - leather_helmet 1 color:10511680
+    - leather_chestplate 1 color:10511680
+    - leather_leggings 1 color:10511680
+    - leather_boots 1 color:10511680
+    - shield 1 basecolor:16383998
+    - bow 1
+    - arrow 32
+    - bread 16
+    - bread 16
+    - bread 16
+    - bread 16
