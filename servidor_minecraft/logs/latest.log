@@ -25765,3 +25765,11 @@ java.lang.IllegalArgumentException: Invalid NamespacedId: foraging
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16:43:16] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode spectator
+[16:43:33] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[16:43:36] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode creative
+[16:44:46] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[16:45:52] [Server thread/INFO]: NoobUser1624 has made the advancement [Fishy Business]
+[16:50:25] [Server thread/INFO]: Villager Villager['Villager'/177, uuid='d5a97485-96a0-4b3c-924e-eba8748abf8b', l='ServerLevel[KeisuWolrd]', x=283.36, y=84.00, z=36.30, cpos=[17, 2], tl=164993, v=true] died, message: 'Villager was slain by Zombie'
+[16:50:36] [Server thread/INFO]: NoobUser1624 was slain by Lvl 3 | Phantom
+[16:51:50] [Server thread/INFO]: NoobUser1624 has made the advancement [Sweet Dreams]
