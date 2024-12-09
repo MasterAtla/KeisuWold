@@ -426,3 +426,19 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [15:29:31] [Server thread/INFO]: NoobUser1624 issued server command: /origin reload
 [15:29:52] [Server thread/INFO]: NoobUser1624 issued server command: /origin set .NoobUser1624 origin human
 [15:32:18] [Server thread/INFO]: .NoobUser1624 was slain by Lvl 3 | Zombie
+[15:45:13] [Server thread/INFO]: NoobUser1624 lost connection: Disconnected
+[15:45:13] [Server thread/INFO]: NoobUser1624 left the game
+[15:45:20] [User Authenticator #1/INFO]: UUID of player NoobUser1624 is 71a15b83-c353-3f5e-bf2b-9857c14a6cb6
+[15:45:22] [TAB Processing Thread/INFO]: [TAB] [WARN] Player NoobUser1624's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:45:22] [Server thread/INFO]: NoobUser1624 joined the game
+[15:45:22] [Server thread/INFO]: NoobUser1624[/127.191.125.190:45103] logged in with entity id 2012 at ([KeisuWolrd]200.16639557045738, 71.0, -2.007692003382925)
+[15:45:41] [Server thread/INFO]: NoobUser1624 issued server command: /essentials reload
+[15:45:41] [Server thread/INFO]: [Essentials] Loaded 43468 items from items.json.
+[15:45:41] [Server thread/INFO]: [Essentials] Using locale en
+[15:45:41] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:45:43] [Server thread/INFO]: NoobUser1624 lost connection: Disconnected
+[15:45:43] [Server thread/INFO]:  Nos vemos...
+[15:45:47] [User Authenticator #1/INFO]: UUID of player NoobUser1624 is 71a15b83-c353-3f5e-bf2b-9857c14a6cb6
+[15:45:49] [TAB Processing Thread/INFO]: [TAB] [WARN] Player NoobUser1624's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:45:49] [Server thread/INFO]: NoobUser1624[/127.191.125.190:33607] logged in with entity id 2051 at ([KeisuWolrd]199.83216391305135, 71.0, -2.5540431393285967)
+[15:45:49] [Server thread/INFO]:  Bienvenido... 
