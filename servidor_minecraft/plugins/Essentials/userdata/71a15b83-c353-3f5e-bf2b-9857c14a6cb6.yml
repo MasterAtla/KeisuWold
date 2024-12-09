@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733759143571
-  login: 1733759149167
+  logout: 1733759235070
+  login: 1733759242970
 money: '0'
 last-account-name: NoobUser1624
 logoutlocation:
@@ -26,5 +26,5 @@ logoutlocation:
   x: 199.83216391305135
   y: 71.0
   z: -2.5540431393285967
-  yaw: -31.799806594848633
-  pitch: -5.549997806549072
+  yaw: -22.04982566833496
+  pitch: -4.349997043609619

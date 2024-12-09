@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1733758043245
+  logout: 1733759602169
+  login: 1733759623317
 money: '0'
 last-account-name: .NoobUser1624
+logoutlocation:
+  world: 5f61f8bc-7238-46a6-b027-ed70d399dc8e
+  world-name: KeisuWolrd
+  x: 198.0
+  y: 71.0
+  z: 1.0
+  yaw: 138.875732421875
+  pitch: 15.628128051757812

@@ -442,3 +442,48 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [15:45:49] [TAB Processing Thread/INFO]: [TAB] [WARN] Player NoobUser1624's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [15:45:49] [Server thread/INFO]: NoobUser1624[/127.191.125.190:33607] logged in with entity id 2051 at ([KeisuWolrd]199.83216391305135, 71.0, -2.5540431393285967)
 [15:45:49] [Server thread/INFO]:  Bienvenido... 
+[15:47:11] [Server thread/INFO]: NoobUser1624 issued server command: /essentials reload
+[15:47:11] [Server thread/INFO]: [Essentials] Loaded 43468 items from items.json.
+[15:47:11] [Server thread/INFO]: [Essentials] Using locale en
+[15:47:11] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:47:15] [Server thread/INFO]: NoobUser1624 lost connection: Disconnected
+[15:47:15] [Server thread/INFO]:  Nos vemos...
+[15:47:21] [User Authenticator #2/INFO]: UUID of player NoobUser1624 is 71a15b83-c353-3f5e-bf2b-9857c14a6cb6
+[15:47:22] [TAB Processing Thread/INFO]: [TAB] [WARN] Player NoobUser1624's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:47:22] [Server thread/INFO]: NoobUser1624[/127.191.125.190:33981] logged in with entity id 2210 at ([KeisuWolrd]199.83216391305135, 71.0, -2.5540431393285967)
+[15:47:23] [Server thread/INFO]:  Bienvenido... 
+[15:50:13] [localSession-7-2/INFO]: [Geyser-Spigot] NoobUser1624 has disconnected from the Java server because of Bedrock client disconnected
+[15:50:13] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .NoobUser1624 disconnected
+[15:50:13] [Server thread/INFO]: .NoobUser1624 lost connection: Disconnected
+[15:50:13] [Server thread/INFO]:  Nos vemos...
+[15:52:20] [Server thread/INFO]: NoobUser1624 issued server command: /essentials reload
+[15:52:21] [Server thread/INFO]: [Essentials] Loaded 43468 items from items.json.
+[15:52:21] [Server thread/INFO]: [Essentials] Using locale en
+[15:52:21] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:52:34] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username NoobUser1624
+[15:52:34] [localSession-7-3/INFO]: [Geyser-Spigot] NoobUser1624 (logged in as: NoobUser1624) has connected to the Java server
+[15:52:34] [Server thread/INFO]: [floodgate] Floodgate player logged in as .NoobUser1624 joined (UUID: 00000000-0000-0000-0009-01fc582188ae)
+[15:52:34] [TAB Processing Thread/INFO]: [TAB] [WARN] Player .NoobUser1624's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:52:34] [Server thread/INFO]: .NoobUser1624[/127.0.0.1:0] logged in with entity id 2712 at ([KeisuWolrd]206.30001, 67.0, 8.941214)
+[15:52:34] [Server thread/INFO]:  Bienvenido... {DISPLAYNAME} Al Mundo ! 
+[15:53:13] [Server thread/INFO]: NoobUser1624 issued server command: /essentials reload
+[15:53:13] [Server thread/INFO]: [Essentials] Loaded 43468 items from items.json.
+[15:53:13] [Server thread/INFO]: [Essentials] Using locale en
+[15:53:13] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:53:22] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .NoobUser1624 disconnected
+[15:53:22] [localSession-7-3/INFO]: [Geyser-Spigot] NoobUser1624 has disconnected from the Java server because of Bedrock client disconnected
+[15:53:22] [Server thread/INFO]: .NoobUser1624 lost connection: Disconnected
+[15:53:22] [Server thread/INFO]:  Nos vemos... .NoobUser1624
+[15:53:43] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username NoobUser1624
+[15:53:43] [localSession-7-4/INFO]: [Geyser-Spigot] NoobUser1624 (logged in as: NoobUser1624) has connected to the Java server
+[15:53:43] [Server thread/INFO]: [floodgate] Floodgate player logged in as .NoobUser1624 joined (UUID: 00000000-0000-0000-0009-01fc582188ae)
+[15:53:43] [TAB Processing Thread/INFO]: [TAB] [WARN] Player .NoobUser1624's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:53:43] [Server thread/INFO]: .NoobUser1624[/127.0.0.1:0] logged in with entity id 2822 at ([KeisuWolrd]198.0, 71.0, 1.0)
+[15:53:43] [Server thread/INFO]:  Bienvenido... .NoobUser1624 Al Mundo ! 
+[15:53:51] [Server thread/WARN]: .NoobUser1624 moved wrongly!
+[15:53:56] [Server thread/INFO]: .NoobUser1624 was slain by Lvl 7 | Zombie
+[15:54:40] [Server thread/INFO]: NoobUser1624 issued server command: /kitcreate NoobUser1624 NoobUser1624
+[15:54:52] [Server thread/INFO]: NoobUser1624 issued server command: /kitcreate
+[15:55:27] [Server thread/INFO]: Villager Villager['Villager'/103, uuid='257499df-115a-48f5-9fe8-c89f5130c94b', l='ServerLevel[KeisuWolrd]', x=252.51, y=76.00, z=12.30, cpos=[15, 0], tl=99884, v=true] died, message: 'Villager was slain by Zombie'
+[15:55:32] [Server thread/INFO]: NoobUser1624 issued server command: /kitcreate Inicio 5
+[15:55:47] [Server thread/INFO]: NoobUser1624 issued server command: /kitpreview inicio
