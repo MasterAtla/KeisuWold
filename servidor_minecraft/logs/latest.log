@@ -394,3 +394,11 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [10:36:24] [Server thread/INFO]: NoobUser1624 issued server command: /skills
 [10:40:21] [Server thread/INFO]: NoobUser1624 has made the advancement [Acquire Hardware]
 [10:42:22] [Server thread/INFO]: NoobUser1624 issued server command: /skills
+[10:43:58] [Server thread/INFO]: NoobUser1624 issued server command: /skills
+[10:47:40] [Server thread/INFO]: NoobUser1624 issued server command: /give @p diamond_sword{Enchantments:[{id:sharpness,lvl:10},{id:smite,lvl:10},{id:bane_of_arthropods,lvl:10},{id:knockback,lvl:10},{id:fire_aspect,lvl:10},{id:looting,lvl:10},{id:unbreaking,lvl:10},{id:mending,lvl:10},{id:sweeping,lvl:10}]} 1
+[10:48:30] [Server thread/INFO]: NoobUser1624 issued server command: /give @p wooden_sword{Unbreakable:1,display:{Name:'[{"text":"ESPADA DE MADERA CHETADA","italic":false,"bold":true,"color":"red"}]'},Enchantments:[{id:bane_of_arthropods,lvl:1000000},{id:fire_aspect,lvl:1000000},{id:knockback,lvl:1000000},{id:looting,lvl:1
+[10:50:02] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword[enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
+[10:50:02] [Server thread/INFO]: [NoobUser1624: Gave 1 [Netherite Sword] to NoobUser1624]
+[10:51:22] [Server thread/INFO]: NoobUser1624 issued server command: /skills
+[10:51:48] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword[enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
+[10:51:48] [Server thread/INFO]: [NoobUser1624: Gave 1 [Netherite Sword] to NoobUser1624]
