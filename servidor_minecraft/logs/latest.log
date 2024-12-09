@@ -382,3 +382,15 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [10:32:46] [Server thread/WARN]: .NoobUser1624 moved wrongly!
 [10:32:47] [Server thread/WARN]: .NoobUser1624 moved wrongly!
 [10:32:48] [Server thread/WARN]: .NoobUser1624 moved wrongly!
+[10:34:10] [Server thread/INFO]: NoobUser1624 issued server command: /tp .NoobUser1624 NoobUser1624
+[10:34:10] [Server thread/INFO]: [NoobUser1624: Teleported .NoobUser1624 to NoobUser1624]
+[10:34:39] [Server thread/INFO]: .NoobUser1624 has made the advancement [Monster Hunter]
+[10:34:47] [localSession-7-3/INFO]: [Geyser-Spigot] NoobUser1624 has disconnected from the Java server because of Bedrock client disconnected
+[10:34:47] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .NoobUser1624 disconnected
+[10:34:47] [Server thread/INFO]: .NoobUser1624 lost connection: Disconnected
+[10:34:47] [Server thread/INFO]: .NoobUser1624 left the game
+[10:35:17] [Server thread/INFO]: NoobUser1624 has made the advancement [Monster Hunter]
+[10:35:24] [Server thread/INFO]: NoobUser1624 issued server command: /auraskills:agility
+[10:36:24] [Server thread/INFO]: NoobUser1624 issued server command: /skills
+[10:40:21] [Server thread/INFO]: NoobUser1624 has made the advancement [Acquire Hardware]
+[10:42:22] [Server thread/INFO]: NoobUser1624 issued server command: /skills
