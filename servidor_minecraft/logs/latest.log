@@ -509,3 +509,4 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [16:02:35] [Server thread/INFO]: NoobUser1624 issued server command: //hcyl cobblestone 5 1
 [16:02:41] [Server thread/INFO]: NoobUser1624 issued server command: //hcyl cobblestone 5 5
 [16:02:50] [Server thread/INFO]: NoobUser1624 issued server command: //cyl cobblestone 5 1
+[16:13:06] [Server thread/INFO]: NoobUser1624 issued server command: /give NoobUser1624 globe_banner_pattern
