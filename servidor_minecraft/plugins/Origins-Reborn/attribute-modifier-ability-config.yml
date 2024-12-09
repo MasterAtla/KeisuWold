@@ -1,0 +1,18 @@
+origins:fragile:
+  value: x
+  operation: default
+origins:tailwind:
+  value: x
+  operation: default
+origins:nine_lives:
+  value: x
+  operation: default
+origins:natural_armor:
+  value: x
+  operation: default
+origins:extra_reach_blocks:
+  value: x
+  operation: default
+origins:extra_reach_entities:
+  value: x
+  operation: default
