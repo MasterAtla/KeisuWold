@@ -402,3 +402,63 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [10:51:22] [Server thread/INFO]: NoobUser1624 issued server command: /skills
 [10:51:48] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword[enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
 [10:51:48] [Server thread/INFO]: [NoobUser1624: Gave 1 [Netherite Sword] to NoobUser1624]
+[10:55:03] [Server thread/INFO]: NoobUser1624 issued server command: /give NoobUser1624 minecraft:command_block
+[10:55:03] [Server thread/INFO]: [NoobUser1624: Gave 1 [Command Block] to NoobUser1624]
+[11:00:26] [Server thread/INFO]: NoobUser1624 lost connection: Disconnected
+[11:00:26] [Server thread/INFO]: NoobUser1624 left the game
+[11:00:55] [Server thread/INFO]: Stopping the server
+[11:00:55] [Server thread/INFO]: Stopping server
+[11:00:55] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[11:00:55] [Server thread/INFO]: [Veinminer-Enchantment] Disabling Veinminer-Enchantment v2.2.2
+[11:00:55] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.4.6
+[11:00:55] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.5.1-SNAPSHOT
+[11:00:55] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[11:00:55] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[11:00:55] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[11:00:55] [Server thread/INFO]: [TAB] Disabled in 1ms
+[11:00:55] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.1.4.1 b78
+[11:00:55] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[11:00:55] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[11:00:55] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 1ms)
+[11:00:55] [Craft Scheduler Thread - 6 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[11:00:55] [Craft Scheduler Thread - 4 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[11:00:55] [Server thread/INFO]: [FarmAssistReboot] Disabling FarmAssistReboot v1.4.7
+[11:00:55] [Server thread/INFO]: [TreeFeller] Disabling TreeFeller v1.24.3
+[11:00:55] [Server thread/INFO]: [TreeFeller] TreeFeller has been disabled! (Version 1.24.3) by ThizThizzyDizzy
+[11:00:55] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
+[11:00:55] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[11:00:55] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[11:00:55] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[11:00:55] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.2.6
+[11:00:55] [WebSocketConnectReadThread-108/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[11:00:55] [Server thread/INFO]: Saving players
+[11:00:55] [Server thread/INFO]: Saving worlds
+[11:00:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KeisuWolrd]'/minecraft:overworld
+[11:00:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'KeisuWolrd'
+[11:00:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'KeisuWolrd'
+[11:00:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'KeisuWolrd'
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 86 entity chunks, 0 poi chunks in world 'KeisuWolrd' in 0.04s
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'KeisuWolrd'
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'KeisuWolrd'
+[11:00:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KeisuWolrd_nether]'/minecraft:the_nether
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'KeisuWolrd_nether'
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'KeisuWolrd_nether'
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'KeisuWolrd_nether'
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'KeisuWolrd_nether' in 0.00s
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'KeisuWolrd_nether'
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'KeisuWolrd_nether'
+[11:00:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KeisuWolrd_the_end]'/minecraft:the_end
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'KeisuWolrd_the_end'
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'KeisuWolrd_the_end'
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'KeisuWolrd_the_end'
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'KeisuWolrd_the_end' in 0.01s
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'KeisuWolrd_the_end'
+[11:00:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'KeisuWolrd_the_end'
+[11:00:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (KeisuWolrd): All chunks are saved
+[11:00:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:00:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:00:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:00:56] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[11:00:56] [Server thread/INFO]: All I/O tasks to complete
+[11:00:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[11:00:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
