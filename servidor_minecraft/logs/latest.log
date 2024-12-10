@@ -9488,3 +9488,8 @@ java.lang.IllegalArgumentException: Invalid NamespacedId: foraging
 [03:08:37] [Server thread/INFO]: NoobUser1624 was slain by Lvl 3 | Zombie
 [03:09:36] [Server thread/INFO]: NoobUser1624 was slain by Lvl 7 | Zombie
 [03:10:12] [Server thread/INFO]: NoobUser1624 was doomed to fall by Zombie
+[03:12:46] [Server thread/INFO]: NoobUser1624 was blown up by Lvl 4 | Creeper
+[03:13:04] [Server thread/INFO]: NoobUser1624 was slain by Lvl 2 | Spider
+[03:13:41] [Server thread/INFO]: NoobUser1624 was slain by Lvl 8 | Zombie
+[03:13:59] [Server thread/INFO]: NoobUser1624 issued server command: /skills
+[03:21:24] [Server thread/INFO]: NoobUser1624 issued server command: /mana
