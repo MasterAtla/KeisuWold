@@ -21,7 +21,7 @@ timestamps:
   kits:
     inicio: 1733763377319
     notch: 1733802693935
-money: '129.000'
+money: '6849.000'
 last-account-name: NoobUser1624
 logoutlocation:
   world: 5f61f8bc-7238-46a6-b027-ed70d399dc8e
@@ -31,3 +31,4 @@ logoutlocation:
   z: -51.87673354793449
   yaw: 79.94979858398438
   pitch: 35.10012435913086
+confirm-pay: true

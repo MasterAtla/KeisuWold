@@ -9569,3 +9569,48 @@ java.lang.IllegalArgumentException: Invalid NamespacedId: foraging
 [03:51:58] [Server thread/INFO]: NoobUser1624 issued server command: /sell hand 47
 [03:52:03] [Server thread/INFO]: NoobUser1624 issued server command: /sell hand 47 3
 [03:52:08] [Server thread/INFO]: NoobUser1624 issued server command: /sell hand 47 3
+[03:52:10] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode creative
+[03:52:17] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[03:53:02] [Server thread/INFO]: NoobUser1624 was slain by Zombie ❤
+[03:55:15] [Server thread/INFO]: NoobUser1624 issued server command: /essentials reload
+[03:55:15] [Server thread/INFO]: [Essentials] Loaded 43468 items from items.json.
+[03:55:15] [Server thread/INFO]: [Essentials] Using locale es
+[03:55:15] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[03:57:06] [Async Chat Thread - #0/INFO]: [Not Secure] <NoobUser1624> hola
+[03:57:32] [Server thread/INFO]: NoobUser1624 issued server command: /essentials reload
+[03:57:32] [Server thread/INFO]: [Essentials] Loaded 43468 items from items.json.
+[03:57:32] [Server thread/INFO]: [Essentials] Using locale es
+[03:57:32] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[03:57:34] [Async Chat Thread - #0/INFO]: [Not Secure] <NoobUser1624> hola
+[03:59:52] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode creative
+[04:00:01] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[04:00:23] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 600 55
+[04:00:23] [Server thread/INFO]: [Essentials] NoobUser1624 vendido cobblestone por $1,800 (600 objetos a $3 cada uno).
+[04:00:29] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 600 55
+[04:00:29] [Server thread/INFO]: [Essentials] NoobUser1624 vendido cobblestone por $1,800 (600 objetos a $3 cada uno).
+[04:00:32] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 600
+[04:00:32] [Server thread/INFO]: [Essentials] NoobUser1624 vendido cobblestone por $1,800 (600 objetos a $3 cada uno).
+[04:00:34] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 600
+[04:00:37] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 600
+[04:00:43] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 600
+[04:00:48] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 60055
+[04:00:52] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 600 55
+[04:00:59] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 64
+[04:00:59] [Server thread/INFO]: [Essentials] NoobUser1624 vendido cobblestone por $192 (64 objetos a $3 cada uno).
+[04:01:01] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 64
+[04:01:01] [Server thread/INFO]: [Essentials] NoobUser1624 vendido cobblestone por $192 (64 objetos a $3 cada uno).
+[04:01:04] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 64
+[04:01:04] [Server thread/INFO]: [Essentials] NoobUser1624 vendido cobblestone por $192 (64 objetos a $3 cada uno).
+[04:01:05] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 64
+[04:01:05] [Server thread/INFO]: [Essentials] NoobUser1624 vendido cobblestone por $192 (64 objetos a $3 cada uno).
+[04:01:06] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 64
+[04:01:06] [Server thread/INFO]: [Essentials] NoobUser1624 vendido cobblestone por $192 (64 objetos a $3 cada uno).
+[04:01:06] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 64
+[04:01:06] [Server thread/INFO]: [Essentials] NoobUser1624 vendido cobblestone por $192 (64 objetos a $3 cada uno).
+[04:01:07] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 64
+[04:01:10] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 56
+[04:01:10] [Server thread/INFO]: [Essentials] NoobUser1624 vendido cobblestone por $168 (56 objetos a $3 cada uno).
+[04:01:23] [Server thread/INFO]: NoobUser1624 issued server command: /balance NoobUser1624
+[04:01:39] [Server thread/INFO]: NoobUser1624 issued server command: /payconfirm NoobUser1624 NoobUser1624 100
+[04:01:50] [Server thread/INFO]: NoobUser1624 issued server command: /pay NoobUser1624 100
+[04:01:56] [Server thread/INFO]: NoobUser1624 issued server command: /pay NoobUser1624 100
