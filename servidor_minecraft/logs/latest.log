@@ -9511,3 +9511,36 @@ java.lang.IllegalArgumentException: Invalid NamespacedId: foraging
 [03:30:09] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword [enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
 [03:30:27] [Server thread/INFO]: NoobUser1624 issued server command: /give NoobUser1624 netherite_sword [enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
 [03:31:28] [Server thread/INFO]: NoobUser1624 issued server command: /give NoobUser1624 minecraft:netherite_sword[enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
+[03:32:07] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword[enchantments={levels:{"minecraft:sharpness';255},show_in_tooltip:true}]
+[03:32:18] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword[enchantments={levels:{"minecraft:sharpness';255},show_in_tooltip:true}]
+[03:32:21] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword[enchantments={levels:{"minecraft:sharpness';255},show_in_tooltip:true}]
+[03:33:51] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword[enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
+[03:34:02] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword [enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
+[03:34:14] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword 1 [enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
+[03:34:25] [Server thread/INFO]: NoobUser1624 issued server command: /give NoobUser1624 netherite_sword 1 [enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
+[03:35:33] [Server thread/INFO]: NoobUser1624 issued server command: /give NoobUser1624 iron_pickaxe 1 [enchantments={levels:{'minecraft:efficiency':7,'minecraft:unbreaking':7,'minecraft:fortune':7},show_in_tooltip:true}]
+[03:35:35] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[03:35:57] [Server thread/INFO]: NoobUser1624 issued server command: /skills
+[03:36:24] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode creative
+[03:36:28] [Server thread/INFO]: NoobUser1624 has made the advancement [Hidden in the Depths]
+[03:37:17] [Server thread/INFO]: NoobUser1624 issued server command: /give NoobUser1624 diamond_pickaxe 1 [enchantments={levels:{'minecraft:efficiency':4,'minecraft:unbreaking':4,'minecraft:fortune':4},show_in_tooltip:true}]
+[03:37:21] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[03:37:25] [Server thread/INFO]: NoobUser1624 was blown up by Lvl 2 | Creeper
+[03:37:29] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode creative
+[03:37:35] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[03:37:56] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode creative
+[03:38:08] [Server thread/INFO]: NoobUser1624 issued server command: /give NoobUser1624 diamond_pickaxe 1 [enchantments={levels:{'minecraft:efficiency':4,'minecraft:unbreaking':4,'minecraft:fortune':4},show_in_tooltip:true}]
+[03:38:11] [Server thread/INFO]: NoobUser1624 issued server command: /skills
+[03:38:45] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[03:39:11] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode creative
+[03:39:19] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[03:39:45] [Server thread/INFO]: NoobUser1624 issued server command: /essentials:balance
+[03:39:52] [Server thread/INFO]: NoobUser1624 issued server command: /essentials:balance NoobUser1624 add 1
+[03:39:59] [Server thread/INFO]: NoobUser1624 issued server command: /essentials:balance NoobUser1624
+[03:40:10] [Server thread/INFO]: NoobUser1624 issued server command: /tab
+[03:40:38] [Server thread/INFO]: NoobUser1624 issued server command: /essentials commands
+[03:40:51] [Server thread/INFO]: NoobUser1624 issued server command: /essentials commands
+[03:40:57] [Server thread/INFO]: NoobUser1624 issued server command: /help
+[03:41:11] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials
+[03:41:32] [Server thread/INFO]: NoobUser1624 issued server command: /itemname hola
+[03:41:38] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 2
