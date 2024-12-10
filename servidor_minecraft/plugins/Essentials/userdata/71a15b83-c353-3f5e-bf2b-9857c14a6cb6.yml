@@ -4,7 +4,7 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 127.191.125.190
-afk: true
+afk: false
 socialspy: false
 npc: false
 powertoolsenabled: true
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733761381216
-  login: 1733759242970
+  logout: 1733764463619
+  login: 1733799193028
   kits:
     inicio: 1733763377319
 money: '0'
@@ -25,8 +25,8 @@ last-account-name: NoobUser1624
 logoutlocation:
   world: 5f61f8bc-7238-46a6-b027-ed70d399dc8e
   world-name: KeisuWolrd
-  x: 199.83216391305135
-  y: 71.0
-  z: -2.5540431393285967
-  yaw: -22.04982566833496
-  pitch: -4.349997043609619
+  x: 229.5
+  y: 65.0
+  z: 4.5
+  yaw: 89.99999237060547
+  pitch: 0.0
