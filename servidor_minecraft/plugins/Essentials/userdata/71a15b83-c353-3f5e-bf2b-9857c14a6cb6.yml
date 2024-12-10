@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733805008540
+  logout: 1733807002834
   login: 1733805014385
   kits:
     inicio: 1733806425491
@@ -32,3 +32,11 @@ logoutlocation:
   yaw: -166.72793579101562
   pitch: 27.6337890625
 confirm-pay: true
+lastlocation:
+  world: 5f61f8bc-7238-46a6-b027-ed70d399dc8e
+  world-name: KeisuWolrd
+  x: 218.92007905801228
+  y: 69.0
+  z: -78.43241059507972
+  yaw: -99.45028686523438
+  pitch: 12.150001525878906
