@@ -11,7 +11,7 @@ skills:
     xp: 0.0
   auraskills/agility:
     level: 0
-    xp: 0.0
+    xp: 7.0
   auraskills/foraging:
     level: 0
     xp: 0.0
@@ -26,10 +26,10 @@ skills:
     xp: 0.0
   auraskills/fighting:
     level: 0
-    xp: 0.0
+    xp: 1.0
   auraskills/defense:
     level: 0
-    xp: 57.39750051498413
+    xp: 67.02751684188843
   auraskills/fishing:
     level: 0
     xp: 0.0
