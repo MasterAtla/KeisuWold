@@ -9493,3 +9493,21 @@ java.lang.IllegalArgumentException: Invalid NamespacedId: foraging
 [03:13:41] [Server thread/INFO]: NoobUser1624 was slain by Lvl 8 | Zombie
 [03:13:59] [Server thread/INFO]: NoobUser1624 issued server command: /skills
 [03:21:24] [Server thread/INFO]: NoobUser1624 issued server command: /mana
+[03:23:02] [Server thread/INFO]: NoobUser1624 issued server command: /plugins reload
+[03:23:48] [Server thread/INFO]: NoobUser1624 issued server command: /skills
+[03:25:59] [Server thread/INFO]: NoobUser1624 issued server command: /give @p iron_pickaxe{enchantments:[{id:"minecraft:efficiency",level:7},{id:"minecraft:unbreaking",level:7},{id:"minecraft:fortune",level:7}],display:{Name:'{"text":"Pico de Hierro Épico","italic":false}'},show_in_tooltip:true}
+[03:26:03] [Server thread/INFO]: NoobUser1624 issued server command: /give @p iron_pickaxe{enchantments:[{id:"minecraft:efficiency",level:7},{id:"minecraft:unbreaking",level:7},{id:"minecraft:fortune",level:7}],display:{Name:'{"text":"Pico de Hierro Épico","italic":false}'},show_in_tooltip:true} 1
+[03:26:48] [Server thread/INFO]: NoobUser1624 issued server command: /give @p iron_pickaxe{enchantments:[{id:"minecraft:efficiency",level:7},{id:"minecraft:unbreaking",level:7},{id:"minecraft:fortune",level:7}],show_in_tooltip:true}
+[03:27:24] [Server thread/INFO]: NoobUser1624 issued server command: /give @p iron_pickaxe 1 {enchantments:[{id:"minecraft:efficiency",level:7},{id:"minecraft:unbreaking",level:7},{id:"minecraft:fortune",level:7}],show_in_tooltip:true}
+[03:27:43] [Server thread/INFO]: NoobUser1624 issued server command: /enchanting}
+[03:27:46] [Server thread/INFO]: NoobUser1624 issued server command: /enchanting
+[03:27:56] [Server thread/INFO]: NoobUser1624 issued server command: /enchantment
+[03:28:41] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword 1
+[03:28:55] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword[enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
+[03:29:33] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword[enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
+[03:29:40] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode creative
+[03:29:47] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword[enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}] 1
+[03:30:00] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword[enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
+[03:30:09] [Server thread/INFO]: NoobUser1624 issued server command: /give @p netherite_sword [enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
+[03:30:27] [Server thread/INFO]: NoobUser1624 issued server command: /give NoobUser1624 netherite_sword [enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
+[03:31:28] [Server thread/INFO]: NoobUser1624 issued server command: /give NoobUser1624 minecraft:netherite_sword[enchantments={levels:{'minecraft:sharpness':255},show_in_tooltip:true}]
