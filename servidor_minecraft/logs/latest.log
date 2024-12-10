@@ -9544,3 +9544,28 @@ java.lang.IllegalArgumentException: Invalid NamespacedId: foraging
 [03:41:11] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials
 [03:41:32] [Server thread/INFO]: NoobUser1624 issued server command: /itemname hola
 [03:41:38] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 2
+[03:43:00] [Server thread/INFO]: NoobUser1624 issued server command: /payon
+[03:43:08] [Server thread/INFO]: NoobUser1624 issued server command: /pay NoobUser1624 0.001
+[03:45:10] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 3
+[03:45:23] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 4
+[03:45:37] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 5
+[03:45:47] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 6
+[03:46:00] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 7
+[03:46:13] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 8
+[03:46:24] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 9
+[03:46:37] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 10
+[03:47:06] [Server thread/INFO]: NoobUser1624 issued server command: /sell blocks 43 1
+[03:47:06] [Server thread/INFO]: [Essentials] NoobUser1624 sold cobblestone for $129 (43 items at $3 each).
+[03:47:19] [Server thread/INFO]: NoobUser1624 issued server command: /balance
+[03:47:31] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 1
+[03:47:34] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 11
+[03:47:43] [Server thread/INFO]: NoobUser1624 issued server command: /anvil
+[03:48:17] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 12
+[03:48:28] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 13
+[03:48:39] [Server thread/INFO]: NoobUser1624 issued server command: /help essentials 14
+[03:51:33] [Server thread/INFO]: NoobUser1624 issued server command: /kit notch NoobUser1624 cost 1
+[03:51:50] [Server thread/INFO]: NoobUser1624 issued server command: /sell hand
+[03:51:54] [Server thread/INFO]: NoobUser1624 issued server command: /sell hand
+[03:51:58] [Server thread/INFO]: NoobUser1624 issued server command: /sell hand 47
+[03:52:03] [Server thread/INFO]: NoobUser1624 issued server command: /sell hand 47 3
+[03:52:08] [Server thread/INFO]: NoobUser1624 issued server command: /sell hand 47 3

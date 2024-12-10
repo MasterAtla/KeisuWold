@@ -20,7 +20,8 @@ timestamps:
   login: 1733799853925
   kits:
     inicio: 1733763377319
-money: '0'
+    notch: 1733802693935
+money: '129.000'
 last-account-name: NoobUser1624
 logoutlocation:
   world: 5f61f8bc-7238-46a6-b027-ed70d399dc8e
