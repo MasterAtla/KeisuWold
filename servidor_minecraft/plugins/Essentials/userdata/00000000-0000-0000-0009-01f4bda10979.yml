@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1733804506041
+  logout: 1733804762841
+  login: 1733804791834
 money: '5000'
 last-account-name: .SoyGxd
 lastlocation:
@@ -28,3 +28,11 @@ lastlocation:
   z: 1.5
   yaw: 0.0
   pitch: 0.0
+logoutlocation:
+  world: 5f61f8bc-7238-46a6-b027-ed70d399dc8e
+  world-name: KeisuWolrd
+  x: 186.91135
+  y: 73.0
+  z: -6.998907
+  yaw: -4.570343017578125
+  pitch: 15.466629028320312

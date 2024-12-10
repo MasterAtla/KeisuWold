@@ -415,3 +415,60 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [04:22:04] [Server thread/INFO]: .SoyGxd has made the advancement [Isn't It Iron Pick]
 [04:25:06] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-3 - Starting...
 [04:25:06] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-3 - Start completed.
+[04:26:02] [localSession-7-2/INFO]: [Geyser-Spigot] SoyGxd has disconnected from the Java server because of Bedrock client disconnected
+[04:26:02] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .SoyGxd disconnected
+[04:26:02] [Server thread/INFO]: .SoyGxd lost connection: Disconnected
+[04:26:03] [Server thread/INFO]:  Nos vemos... .SoyGxd
+[04:26:31] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username SoyGxd
+[04:26:31] [localSession-7-3/INFO]: [Geyser-Spigot] SoyGxd (logged in as: SoyGxd) has connected to the Java server
+[04:26:31] [Server thread/INFO]: [floodgate] Floodgate player logged in as .SoyGxd joined (UUID: 00000000-0000-0000-0009-01f4bda10979)
+[04:26:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player .SoyGxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:26:31] [Server thread/INFO]: .SoyGxd[/127.0.0.1:0] logged in with entity id 2214 at ([KeisuWolrd]186.91135, 73.0, -6.998907)
+[04:26:31] [Server thread/INFO]:  Bienvenido... .SoyGxd Al Mundo ! 
+[04:29:45] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username NoobUser1624
+[04:29:45] [localSession-7-4/INFO]: [Geyser-Spigot] NoobUser1624 (logged in as: NoobUser1624) has connected to the Java server
+[04:29:45] [User Authenticator #1/INFO]: UUID of player NoobUser1624 is 71a15b83-c353-3f5e-bf2b-9857c14a6cb6
+[04:29:45] [Server thread/INFO]: NoobUser1624 lost connection: You logged in from another location
+[04:29:45] [Server thread/INFO]:  Nos vemos... NoobUser1624
+[04:29:45] [TAB Processing Thread/INFO]: [TAB] [WARN] Player NoobUser1624's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:29:45] [Server thread/INFO]: NoobUser1624[/127.0.0.1:0] logged in with entity id 2951 at ([KeisuWolrd]270.05381384542414, 88.0, 58.058158752840704)
+[04:29:45] [Server thread/INFO]:  Bienvenido... NoobUser1624 Al Mundo ! 
+[04:30:08] [localSession-7-4/INFO]: [Geyser-Spigot] NoobUser1624 has disconnected from the Java server because of Bedrock client disconnected
+[04:30:08] [Server thread/INFO]: NoobUser1624 lost connection: Disconnected
+[04:30:08] [Server thread/INFO]:  Nos vemos... NoobUser1624
+[04:30:13] [User Authenticator #1/INFO]: UUID of player NoobUser1624 is 71a15b83-c353-3f5e-bf2b-9857c14a6cb6
+[04:30:14] [TAB Processing Thread/INFO]: [TAB] [WARN] Player NoobUser1624's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:30:14] [Server thread/INFO]: NoobUser1624[/127.191.125.190:35819] logged in with entity id 3031 at ([KeisuWolrd]258.74765, 77.0, 19.713612)
+[04:30:14] [Server thread/INFO]:  Bienvenido... NoobUser1624 Al Mundo ! 
+[04:30:45] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username NoobUser1624
+[04:30:45] [localSession-7-1/INFO]: [Geyser-Spigot] NoobUser1624 (logged in as: NoobUser1624) has connected to the Java server
+[04:30:45] [Server thread/INFO]: [floodgate] Floodgate player logged in as .NoobUser1624 joined (UUID: 00000000-0000-0000-0009-01fc582188ae)
+[04:30:45] [TAB Processing Thread/INFO]: [TAB] [WARN] Player .NoobUser1624's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:30:45] [Server thread/INFO]: .NoobUser1624[/127.0.0.1:0] logged in with entity id 3097 at ([KeisuWolrd]340.30001, 94.0, -2.151377)
+[04:30:45] [Server thread/INFO]:  Bienvenido... .NoobUser1624 Al Mundo ! 
+[04:30:48] [Server thread/INFO]: .SoyGxd has made the advancement [Best Friends Forever]
+[04:31:06] [Server thread/INFO]: .SoyGxd has made the advancement [Sweet Dreams]
+[04:31:20] [Server thread/INFO]: NoobUser1624 issued server command: /tp .NoobUser1624 NoobUser1624
+[04:31:20] [Server thread/WARN]: .NoobUser1624 moved too quickly! -77.42649999999998,-17.0,20.384056
+[04:31:20] [Server thread/WARN]: .NoobUser1624 moved too quickly! -77.42649999999998,-17.0,20.384056
+[04:31:20] [Server thread/WARN]: .NoobUser1624 moved too quickly! -77.42649999999998,-17.0,20.384056
+[04:31:20] [Server thread/WARN]: .NoobUser1624 moved too quickly! -77.42649999999998,-17.0,20.384056
+[04:31:20] [Server thread/WARN]: .NoobUser1624 moved too quickly! -77.42649999999998,-17.0,20.384056
+[04:31:20] [Server thread/WARN]: .NoobUser1624 moved too quickly! -77.42649999999998,-17.0,20.384056
+[04:31:20] [Server thread/WARN]: .NoobUser1624 moved too quickly! -77.42649999999998,-17.0,20.384056
+[04:31:20] [Server thread/WARN]: .NoobUser1624 moved too quickly! -77.42649999999998,-17.0,20.384056
+[04:31:31] [Server thread/INFO]: NoobUser1624 was slain by .NoobUser1624
+[04:32:41] [Server thread/WARN]: .NoobUser1624 moved wrongly!
+[04:33:21] [Server thread/INFO]: .SoyGxd has made the advancement [Stone Age]
+[04:33:32] [Server thread/WARN]: .SoyGxd moved wrongly!
+[04:33:36] [Server thread/WARN]: .SoyGxd moved wrongly!
+[04:33:41] [Server thread/INFO]: NoobUser1624 was slain by Lvl 4 | Zombie
+[04:33:46] [Server thread/WARN]: .SoyGxd moved wrongly!
+[04:33:50] [Server thread/WARN]: .SoyGxd moved wrongly!
+[04:33:51] [Server thread/WARN]: .SoyGxd moved wrongly!
+[04:33:54] [Server thread/WARN]: .SoyGxd moved wrongly!
+[04:33:56] [Server thread/WARN]: .SoyGxd moved wrongly!
+[04:33:59] [Server thread/WARN]: .SoyGxd moved wrongly!
+[04:34:06] [Server thread/WARN]: .NoobUser1624 moved wrongly!
+[04:34:18] [Server thread/INFO]: Keisu1 has made the advancement [Monster Hunter]
+[04:34:57] [Server thread/INFO]: .SoyGxd was slain by Lvl 5 | Zombie
