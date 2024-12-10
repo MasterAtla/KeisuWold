@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.120.56.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+  login: 1733803770444
+money: '5000'
+last-account-name: Keisu1
+lastlocation:
+  world: 5f61f8bc-7238-46a6-b027-ed70d399dc8e
+  world-name: KeisuWolrd
+  x: 198.5
+  y: 72.0
+  z: 1.5
+  yaw: 0.0
+  pitch: 0.0

@@ -14,7 +14,7 @@ skills:
     xp: 16.0
   auraskills/agility:
     level: 2
-    xp: 376.082
+    xp: 397.7836
   auraskills/foraging:
     level: 2
     xp: 52.32000000000073
@@ -28,8 +28,8 @@ skills:
     level: 2
     xp: 121.0
   auraskills/defense:
-    level: 1
-    xp: 184.80468916893005
+    level: 2
+    xp: 72.06679458618166
   auraskills/alchemy:
     level: 0
     xp: 0.0

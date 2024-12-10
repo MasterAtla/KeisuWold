@@ -9614,3 +9614,27 @@ java.lang.IllegalArgumentException: Invalid NamespacedId: foraging
 [04:01:39] [Server thread/INFO]: NoobUser1624 issued server command: /payconfirm NoobUser1624 NoobUser1624 100
 [04:01:50] [Server thread/INFO]: NoobUser1624 issued server command: /pay NoobUser1624 100
 [04:01:56] [Server thread/INFO]: NoobUser1624 issued server command: /pay NoobUser1624 100
+[04:02:26] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode creative
+[04:02:30] [Server thread/INFO]: NoobUser1624 issued server command: /gamemode survival
+[04:06:54] [Server thread/INFO]: NoobUser1624 issued server command: /kit inicio costs $250
+[04:08:51] [Server thread/INFO]: NoobUser1624 lost connection: Disconnected
+[04:08:51] [Server thread/INFO]:  Nos vemos... NoobUser1624
+[04:09:00] [User Authenticator #2/INFO]: UUID of player NoobUser1624 is 71a15b83-c353-3f5e-bf2b-9857c14a6cb6
+[04:09:01] [TAB Processing Thread/INFO]: [TAB] [WARN] Player NoobUser1624's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:09:01] [Server thread/INFO]: NoobUser1624[/127.191.125.190:42527] logged in with entity id 10002 at ([KeisuWolrd]189.30000001192093, 72.0, -21.346867488767657)
+[04:09:01] [Server thread/INFO]:  Bienvenido... NoobUser1624 Al Mundo ! 
+[04:09:29] [User Authenticator #2/INFO]: UUID of player Keisu1 is 3b7d14ed-8827-3e82-86f6-9b517a407b98
+[04:09:30] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Keisu1's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:09:30] [Server thread/INFO]: Keisu1[/127.120.56.54:59701] logged in with entity id 10107 at ([KeisuWolrd]198.5, 72.0, 1.5)
+[04:09:30] [Server thread/INFO]:  Bienvenido... Keisu1 Al Mundo ! 
+[04:09:30] [Server thread/INFO]: Keisu1 has made the advancement [Getting an Upgrade]
+[04:09:55] [Server thread/INFO]: NoobUser1624 was slain by Lvl 4 | Zombie
+[04:10:01] [Server thread/INFO]: Keisu1 was slain by Lvl 9 | Zombie
+[04:10:14] [Server thread/INFO]: NoobUser1624 was slain by Lvl 6 | Zombie
+[04:10:20] [Server thread/INFO]: Keisu1 was slain by Lvl 6 | Zombie
+[04:10:28] [Server thread/INFO]: NoobUser1624 was slain by Lvl 11 | Zombie
+[04:11:19] [Server thread/INFO]: Keisu1 was slain by Zombie ❤
+[04:11:26] [Server thread/INFO]: NoobUser1624 was shot by Lvl 3 | Skeleton
+[04:11:46] [Server thread/INFO]: NoobUser1624 issued server command: /time set day
+[04:12:05] [Server thread/INFO]: NoobUser1624 lost connection: Disconnected
+[04:12:05] [Server thread/INFO]:  Nos vemos... NoobUser1624
